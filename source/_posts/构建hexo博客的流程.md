@@ -21,7 +21,7 @@ hexo server
 
 访问 http://localhost:4000 即可看到效果 
 
-## 新建博客的方法
+## 新建博客文章的方法
 ```shell
 hexo new "构建hexo博客的流程"
 ```
